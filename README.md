@@ -1,2 +1,2 @@
-# iberiko
+# A
 Simple Github Web Hosting
